@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="MavenJava">
+    <classes>
+
+      <class name="com.fvsware.RESTAPITest"/>
+      <class name="com.fvsware.SeleniumTest"/>
+
+    </classes>
+  </test> <!-- MavenJava -->
+</suite> <!-- Default Suite -->
