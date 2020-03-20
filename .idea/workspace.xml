@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9497e154-1c26-47d2-9d88-a1f58e2f488a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fvsware/AppiumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fvsware/AppiumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fvsware/RESTAPITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fvsware/RESTAPITest.java" afterDir="false" />
-    </list>
+    <list default="true" id="9497e154-1c26-47d2-9d88-a1f58e2f488a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
